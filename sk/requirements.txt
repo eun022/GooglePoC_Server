@@ -1,0 +1,9 @@
+# === socket 서버 실행용 requirements ===
+# Python 3.10 권장 (mediapipe, OpenCV 휠 호환)
+opencv-contrib-python==4.10.0.84
+
+websockets>=12,<14
+
+numpy>=1.24,<2.0
+
+mediapipe==0.10.14
